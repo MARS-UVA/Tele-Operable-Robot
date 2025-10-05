@@ -1,0 +1,37 @@
+[0.467s] Invoking command in '/home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/src/teleop_subscriber': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/src/teleop_subscriber/build/teleop_subscriber/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/src/teleop_subscriber/install/teleop_subscriber/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/teleop_subscriber build --build-base /home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/src/teleop_subscriber/build/teleop_subscriber/build install --record /home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/src/teleop_subscriber/build/teleop_subscriber/install.log --single-version-externally-managed install_data
+[0.564s] running egg_info
+[0.564s] creating build/teleop_subscriber/teleop_subscriber.egg-info
+[0.570s] writing build/teleop_subscriber/teleop_subscriber.egg-info/PKG-INFO
+[0.570s] writing dependency_links to build/teleop_subscriber/teleop_subscriber.egg-info/dependency_links.txt
+[0.570s] writing entry points to build/teleop_subscriber/teleop_subscriber.egg-info/entry_points.txt
+[0.570s] writing requirements to build/teleop_subscriber/teleop_subscriber.egg-info/requires.txt
+[0.570s] writing top-level names to build/teleop_subscriber/teleop_subscriber.egg-info/top_level.txt
+[0.571s] writing manifest file 'build/teleop_subscriber/teleop_subscriber.egg-info/SOURCES.txt'
+[0.584s] reading manifest file 'build/teleop_subscriber/teleop_subscriber.egg-info/SOURCES.txt'
+[0.584s] writing manifest file 'build/teleop_subscriber/teleop_subscriber.egg-info/SOURCES.txt'
+[0.585s] running build
+[0.585s] running build_py
+[0.585s] creating /home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/src/teleop_subscriber/build/teleop_subscriber/build
+[0.585s] creating /home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/src/teleop_subscriber/build/teleop_subscriber/build/lib
+[0.585s] creating /home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/src/teleop_subscriber/build/teleop_subscriber/build/lib/teleop_subscriber
+[0.585s] copying teleop_subscriber/__init__.py -> /home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/src/teleop_subscriber/build/teleop_subscriber/build/lib/teleop_subscriber
+[0.585s] copying teleop_subscriber/message_subscriber.py -> /home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/src/teleop_subscriber/build/teleop_subscriber/build/lib/teleop_subscriber
+[0.585s] running install
+[0.588s] running install_lib
+[0.594s] creating /home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/src/teleop_subscriber/install/teleop_subscriber/lib/python3.12/site-packages/teleop_subscriber
+[0.595s] copying /home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/src/teleop_subscriber/build/teleop_subscriber/build/lib/teleop_subscriber/__init__.py -> /home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/src/teleop_subscriber/install/teleop_subscriber/lib/python3.12/site-packages/teleop_subscriber
+[0.595s] copying /home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/src/teleop_subscriber/build/teleop_subscriber/build/lib/teleop_subscriber/message_subscriber.py -> /home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/src/teleop_subscriber/install/teleop_subscriber/lib/python3.12/site-packages/teleop_subscriber
+[0.596s] byte-compiling /home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/src/teleop_subscriber/install/teleop_subscriber/lib/python3.12/site-packages/teleop_subscriber/__init__.py to __init__.cpython-312.pyc
+[0.596s] byte-compiling /home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/src/teleop_subscriber/install/teleop_subscriber/lib/python3.12/site-packages/teleop_subscriber/message_subscriber.py to message_subscriber.cpython-312.pyc
+[0.596s] running install_data
+[0.596s] creating /home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/src/teleop_subscriber/install/teleop_subscriber/share/ament_index
+[0.596s] creating /home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/src/teleop_subscriber/install/teleop_subscriber/share/ament_index/resource_index
+[0.596s] creating /home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/src/teleop_subscriber/install/teleop_subscriber/share/ament_index/resource_index/packages
+[0.597s] copying resource/teleop_subscriber -> /home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/src/teleop_subscriber/install/teleop_subscriber/share/ament_index/resource_index/packages
+[0.597s] copying package.xml -> /home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/src/teleop_subscriber/install/teleop_subscriber/share/teleop_subscriber
+[0.597s] running install_egg_info
+[0.604s] Copying build/teleop_subscriber/teleop_subscriber.egg-info to /home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/src/teleop_subscriber/install/teleop_subscriber/lib/python3.12/site-packages/teleop_subscriber-0.0.0-py3.12.egg-info
+[0.604s] running install_scripts
+[0.662s] Installing simple_subscriber script to /home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/src/teleop_subscriber/install/teleop_subscriber/lib/teleop_subscriber
+[0.662s] writing list of installed files to '/home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/src/teleop_subscriber/build/teleop_subscriber/install.log'
+[0.675s] Invoked command in '/home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/src/teleop_subscriber' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/src/teleop_subscriber/build/teleop_subscriber/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/src/teleop_subscriber/install/teleop_subscriber/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/teleop_subscriber build --build-base /home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/src/teleop_subscriber/build/teleop_subscriber/build install --record /home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/src/teleop_subscriber/build/teleop_subscriber/install.log --single-version-externally-managed install_data
