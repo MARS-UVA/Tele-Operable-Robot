@@ -11,6 +11,10 @@ setup.py
 resource/teleop_subscriber
 teleop_subscriber/__init__.py
 teleop_subscriber/message_subscriber.py
+teleop_subscriber/signal_processing.py
+teleop_subscriber/control/__init__.py
+teleop_subscriber/control/arcade_drive.py
+teleop_subscriber/control/base.py
 test/test_copyright.py
 test/test_flake8.py
 test/test_pep257.py
