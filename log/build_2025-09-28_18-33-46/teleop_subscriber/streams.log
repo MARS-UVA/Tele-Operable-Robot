@@ -1,0 +1,24 @@
+[0.576s] Invoking command in '/home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/src/teleop_subscriber': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/build/teleop_subscriber/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/install/teleop_subscriber/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/teleop_subscriber build --build-base /home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/build/teleop_subscriber/build install --record /home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/build/teleop_subscriber/install.log --single-version-externally-managed install_data
+[0.673s] running egg_info
+[0.679s] writing ../../build/teleop_subscriber/teleop_subscriber.egg-info/PKG-INFO
+[0.679s] writing dependency_links to ../../build/teleop_subscriber/teleop_subscriber.egg-info/dependency_links.txt
+[0.679s] writing entry points to ../../build/teleop_subscriber/teleop_subscriber.egg-info/entry_points.txt
+[0.679s] writing requirements to ../../build/teleop_subscriber/teleop_subscriber.egg-info/requires.txt
+[0.679s] writing top-level names to ../../build/teleop_subscriber/teleop_subscriber.egg-info/top_level.txt
+[0.693s] reading manifest file '../../build/teleop_subscriber/teleop_subscriber.egg-info/SOURCES.txt'
+[0.694s] writing manifest file '../../build/teleop_subscriber/teleop_subscriber.egg-info/SOURCES.txt'
+[0.694s] running build
+[0.694s] running build_py
+[0.694s] copying teleop_subscriber/message_subscriber.py -> /home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/build/teleop_subscriber/build/lib/teleop_subscriber
+[0.694s] running install
+[0.697s] running install_lib
+[0.703s] copying /home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/build/teleop_subscriber/build/lib/teleop_subscriber/message_subscriber.py -> /home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/install/teleop_subscriber/lib/python3.12/site-packages/teleop_subscriber
+[0.704s] byte-compiling /home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/install/teleop_subscriber/lib/python3.12/site-packages/teleop_subscriber/message_subscriber.py to message_subscriber.cpython-312.pyc
+[0.704s] running install_data
+[0.704s] running install_egg_info
+[0.712s] removing '/home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/install/teleop_subscriber/lib/python3.12/site-packages/teleop_subscriber-0.0.0-py3.12.egg-info' (and everything under it)
+[0.712s] Copying ../../build/teleop_subscriber/teleop_subscriber.egg-info to /home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/install/teleop_subscriber/lib/python3.12/site-packages/teleop_subscriber-0.0.0-py3.12.egg-info
+[0.713s] running install_scripts
+[0.770s] Installing simple_subscriber script to /home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/install/teleop_subscriber/lib/teleop_subscriber
+[0.770s] writing list of installed files to '/home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/build/teleop_subscriber/install.log'
+[0.782s] Invoked command in '/home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/src/teleop_subscriber' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/build/teleop_subscriber/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/install/teleop_subscriber/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/teleop_subscriber build --build-base /home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/build/teleop_subscriber/build install --record /home/poseidon/ros2_ws/src/github/Tele-Operable-Robot/build/teleop_subscriber/install.log --single-version-externally-managed install_data
